@@ -1,0 +1,1 @@
+export * as check from './methods'
